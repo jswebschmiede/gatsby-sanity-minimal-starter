@@ -1,4 +1,4 @@
-# Gatsby Sanity Starter
+# Gatsby Sanity Tailwind 3 Starter
 
 ## What you have
 
@@ -33,8 +33,6 @@ Or follow the steps below:
 3. Restart the development server (`ctrl + C` and `npm run dev`).
 
 If you want to turn off preview you can set `watchMode: false` in gatsby-config.js. If you just want to preview published changes you can set `overlayDrafts: false` in gatsby-config.js.
-
-### Added Tailwind 3 and removed style-components
 
 ## Stuck? Get help
 
