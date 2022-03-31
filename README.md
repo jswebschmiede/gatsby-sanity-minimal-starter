@@ -4,10 +4,12 @@
 
 - A blazing fast blog with [Gatsby.js](https://gatsbyjs.org)
 - Structured content using [Sanity.io](https://www.sanity.io)
+- Tailwind 3 [tailwindcss.com](https://tailwindcss.com)
 
 ## Quick start
 
-I made a step-by-step tutorial on YouTube [HERE](https://www.youtube.com/watch?v=Jz3cxK1rztw)
+Thanks [https://github.com/jaydanurwin](https://github.com/jaydanurwin) for the create work.
+He made a step-by-step tutorial on YouTube [HERE](https://www.youtube.com/watch?v=Jz3cxK1rztw)
 
 Or follow the steps below:
 
